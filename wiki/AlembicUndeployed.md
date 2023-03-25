@@ -1,0 +1,14 @@
+# Alembic  
+> Can place it on a campfire to distill water.  
+  
+<table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  >**Weight：**500<br><br>**Tag：**	[“Large”](tag_Large.md)</td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="AlembicUndeployed.md" style="color:black"><img class="bg" decoding="async" src="Sprite/BG_SandFront.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="Sprite/Alembic.png" class="cardimageNoBack" style="transform: translate(-50%, 0%) scale(0.4398826979472141);"><span style="font-size: 25px;">Alembic</span></a></div></div>"A useful device for extracting different substances via the controlled application of heat through the process of distilling.<br><br>Turns any water <b>Drinkable</b> (including seawater) and can make <b>Aqua Fortis</b>: an essential ingredient for Dynamite.<br>To use it place an empty container inside</td></tr></tbody></table>  
+  
+## Got From  
+<div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">Pick Up</div><div style="display:inline-block;vertical-align:middle;">[Alembic(Off)](AlembicOff.md)</div></div></div><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">Pick Up</div><div style="display:inline-block;vertical-align:middle;">[Alembic(On)](AlembicOn.md)</div></div></div><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">Alembic</div><div style="display:inline-block;vertical-align:middle;">[Unfired Alembic](AlembicUnfired.md)</div></div></div><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">Alembic</div><div style="display:inline-block;vertical-align:middle;">[Unfired Alembic](AlembicUnfired.md)</div></div></div></div>  
+  
+## Drag To  
+<div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:100px;min-height:0px;">[Campfire](Campfire.md)</div><div class="gamedatalist" style="text-align:left;min-width:100px;min-height:0px;">[Campfire(Off)](CampfireExtinguished.md)</div></div>  
+  
+
+
+<script>document.title="Alembic - Card Survival Wiki";</script>

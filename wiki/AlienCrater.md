@@ -1,0 +1,13 @@
+# Crater  
+> "It fell from the sky  
+  
+<table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  data-sortable="true"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  ></td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="AlienCrater.md" style="color:black"><img decoding="async" src="Sprite/AlienCrater.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">Crater</span></a></div></div></td></tr></tbody></table>  
+  
+## Got From  
+<div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">Continue</div><div style="display:inline-block;vertical-align:middle;">[Asteroid Impact!(Event)](Event_AlienCrater.md)</div></div></div></div>  
+  
+## Durability   
+<div  style="border:1px solid #CCC;"><table style="margin-bottom:0px;"><tr><td style="width:30%;text-align:left; background-color:#FEFEFE;font-size:1.3em;font-weight:bold;"><div style="width:30px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/AlarmClock.png" href="a.md" style="max-width:30px;max-height:30px;"></div>Growth</td><td style="font-size:1em;background-color:#FEFEFE">Starting：288 , Max：576<br>+1/TP , Duration ：<font data-toggle="tooltip" data-placement="top" title="576TP">6d</font></td></tr><tr style="background-color:#FFFFFF"><td colspan=2>** On Full： **<br>Self: Growth<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/AlarmClock.png" href="a.md" style="max-width:20px;max-height:20px;"></div>  <span style="font-family:ui-monospace"><b>-576(-100%)</b></span><br>[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/AlienGrowth.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[Alien Growth](AlienGrowthCleared.md)](AlienGrowthCleared.md)(<span style="font-family:ui-monospace"><b>+1</b></span>)</td></tr></table></div>  
+
+
+<script>document.title="Crater - Card Survival Wiki";</script>

@@ -1,0 +1,18 @@
+# Sack  
+> I can store things inside.  
+  
+<table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  >** DoseNotPile **<br><br>**Weight：**100<br><br>**Tag：**	[“Bag”](tag_Bag.md)<br><br>**Slots：**6<br><br>**过滤器：**~~[“Bag”](tag_Bag.md)~~ , ~~[“Large”](tag_Large.md)~~ , ~~[“Fire Source”](tag_FireSource.md)~~ , ~~[“Fire”](tag_Fire.md)~~ , ~~[“Spillable”](tag_Spillable.md)~~<br><br>**WeightCapacity：**1000<br><br>**WeightRedution：**-600</td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Sack.md" style="color:black"><img class="bg" decoding="async" src="Sprite/BG_SandFront.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="Sprite/Sack.png" class="cardimageNoBack" style="transform: translate(-50%, 0%) scale(0.4398826979472141);"><span style="font-size: 25px;">Sack</span></a></div></div>"A very light container made of <b>Cloth</b> that can hold stuff and <b>protect it from animals</b>.<br><br>With a <b>Needle and some Fiber Cord</b> you can sew a Sack from a <b>Large Piece of Cloth</b>.<br><br>It's usually a good idea to put your things into bags</td></tr></tbody></table>  
+  
+## Got From  
+<div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">Deconstruct</div><div style="display:inline-block;vertical-align:middle;">[Scarecrow](Scarecrow.md)</div></div></div><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">Transform</div><div style="display:inline-block;vertical-align:middle;">[Scarecrow](Scarecrow.md)</div></div></div><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">Craft BluePrint</div><div style="display:inline-block;vertical-align:middle;">[Sack(BluePrint)](Bp_Sack.md)</div></div></div></div>  
+  
+## Drag To  
+<div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:100px;min-height:0px;">[Swarming Bee Skep](BeeSkepSwarming.md)</div></div>  
+  
+## Use In BluePrint  
+<div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:100px;min-height:0px;"><div class="gamecard" style="width:80px; height:120px;"><a href="Bp_Scarecrow.md" style="color:black"><img class="bg" decoding="async" src="Sprite/BG_SandFront.png" href="a.md" style="max-width:80px;max-height:120px;"><img decoding="async" src="Sprite/Scarecrow.png" class="cardimageNoBack" style="transform: translate(-50%, 0%) scale(0.23460410557184752);"><span style="font-size: 13.333333333333334px;">Scarecrow</span><img decoding="async" src="../wiki/Sprite/Blueprints.png" style="position: absolute;left:10px;bottom:10px; max-width:23px"></a></div></div></div>  
+  
+  
+
+
+<script>document.title="Sack - Card Survival Wiki";</script>

@@ -1,0 +1,13 @@
+# Gun  
+> Could be useful for hunting.  
+  
+<table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  >**Weight：**150<br><br>**Tag：**	[“Military”](tag_Military.md)<br><br>**Usage：**17</td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Gun.md" style="color:black"><img class="bg" decoding="async" src="Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="Sprite/Pistol.png" class="cardimageNoBack" style="transform: translate(-50%, 0%) scale(0.4398826979472141);"><span style="font-size: 25px;">Gun</span></a></div></div></td></tr></tbody></table>  
+  
+## Got From  
+<div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">Open</div><div style="display:inline-block;vertical-align:middle;">[Supply Capsule](TV_SupplyCapsule.md)</div></div></div><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">Perk Effect</div><div style="display:inline-block;vertical-align:middle;"><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Perk_Military.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[Military](Pk_2_Military.md)</div></div></div></div>  
+  
+## Durability   
+<div  style="border:1px solid #CCC;"><table style="margin-bottom:0px;"><tr><td style="width:30%;text-align:left; background-color:#FEFEFE;font-size:1.3em;font-weight:bold;">Usage</td><td style="font-size:1em;background-color:#FEFEFE">Starting：17 , Max：17<br>-</td></tr><tr style="background-color:#FFFFFF"><td colspan=2>** On Zero：Out of ammo **<br>Self: → [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Pistol.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[Empty Gun(Empty)](GunEmpty.md)](GunEmpty.md)</td></tr></table></div>  
+
+
+<script>document.title="Gun - Card Survival Wiki";</script>

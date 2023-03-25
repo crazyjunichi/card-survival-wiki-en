@@ -1,0 +1,12 @@
+# Raft  
+  
+<div style="display:inline-block"><div class="gamedatalist" style="text-align:center;;min-height:0px;"><div class="gamecard" style="width:120px; height:180px;"><a href="Raft.md" style="color:black"><img decoding="async" src="Sprite/RaftSailed.png" class="cardimage" style="max-width:120px;max-height:180px;"><span style="font-size: 20px;">Raft</span></a></div></div><div class="gamedatalist" style="text-align:center;;min-height:0px;"><div style="height: 150px;border: 2px #a89765 solid;width: 1px;"></div></div></div>  
+  
+<table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  >** Unique On Board **<br><br>**Environment：**[Raft(Environment)](Env_Raft.md)<br><br>** EnvironmentEffect: **<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Darkness17609.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[Light](Light.md)](Light.md)<span style="font-family:ui-monospace"><b>+10</b></span><br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Dizzy.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[Land Sickness](LandSickness.md)](LandSickness.md)addition<span style="font-family:ui-monospace"><b>-8</b></span><br><br>** WeightCapacity： **7000<br><br>** Improvements: **<br>[Raft Expansion](Imp_RaftExpansion1.md) , [Raft Expansion](Imp_RaftExpansion2.md) , [Stitched-Hide Floor](Imp_RaftStitchedHideFloor.md)</td><td  style="width:50%;text-align:left;vertical-align:top;"  >"When stranded on a tropical island</td></tr></tbody></table>  
+  
+## Got From  
+<div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">Board the Raft</div><div style="display:inline-block;vertical-align:middle;">[Raft](RaftEntrance.md)</div></div></div></div>  
+  
+
+
+<script>document.title="Raft - Card Survival Wiki";</script>

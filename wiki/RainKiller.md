@@ -1,0 +1,14 @@
+# Rain Killer  
+  
+<div style="font-size:1.2em"><b>Base Value: </b> 0 </div>  
+<div style="font-size:1.2em"><b>Value Range: </b> 0 ~ 1 </div>  
+<div style="font-size:1.2em"><b>Base Rate: </b> - </div>  
+## Change By  
+<table class="table table-bordered" data-toggle="table"  ><thead style=""><tr ><th  style="text-align:left;vertical-align:top;"  >From</th><th  style="text-align:left;vertical-align:top;"  >Operation</th><th  style="text-align:left;vertical-align:top;"  data-sortable="true"  >Value</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;"  ><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/WeatherClear_0.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[Extreme Drought](Pk_1_ExtremeDrought.md)</td><td  style="text-align:left;vertical-align:top;"  >Perk Effect</td><td  style="text-align:left;vertical-align:top;"  >1</td></tr><tr ><td  style="text-align:left;vertical-align:top;"  ><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/WeatherClear_0.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[Final Drought](Pk_1_FinalDrought.md)</td><td  style="text-align:left;vertical-align:top;"  >Perk Effect</td><td  style="text-align:left;vertical-align:top;"  >1</td></tr></tbody></table>  
+  
+## Required By  
+<table class="table table-bordered" data-toggle="table"  ><thead style=""><tr ><th  style="text-align:left;vertical-align:top;"  >From</th><th  style="text-align:left;vertical-align:top;"  >Operation</th><th  style="text-align:left;vertical-align:top;"  data-sortable="true"  >Value</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;"  >[Cloudy](TropicalIsland_Cloudy.md)</td><td  style="text-align:left;vertical-align:top;"  >影响</td><td  style="text-align:left;vertical-align:top;"  >1</td></tr><tr ><td  style="text-align:left;vertical-align:top;"  >[Heavy Rain](TropicalIsland_HeavyRain.md)</td><td  style="text-align:left;vertical-align:top;"  >影响</td><td  style="text-align:left;vertical-align:top;"  >1</td></tr><tr ><td  style="text-align:left;vertical-align:top;"  >[Light Rain](TropicalIsland_LightRain.md)</td><td  style="text-align:left;vertical-align:top;"  >影响</td><td  style="text-align:left;vertical-align:top;"  >1</td></tr><tr ><td  style="text-align:left;vertical-align:top;"  >[Storm](TropicalIsland_Storm.md)</td><td  style="text-align:left;vertical-align:top;"  >影响</td><td  style="text-align:left;vertical-align:top;"  >1</td></tr></tbody></table>  
+  
+
+
+<script>document.title="Rain Killer - Card Survival Wiki";</script>

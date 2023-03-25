@@ -1,0 +1,453 @@
+.utterances {
+  margin-left: 0;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.gamecard {
+  position: relative;
+}
+
+.gamecard .bg {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+.gamecard span {
+  position: absolute;
+  color: #000;
+  text-align: left;
+  left: 5px;
+  top: 5px;
+  font-weight: bold;
+  text-shadow: 0px 1px 0 #fff, 0px -1px 0 #fff, -1px 0px 0 #fff, 1px 0px 0 #fff;
+  font-size: 15px;
+  font-family: "fantasy";
+}
+
+.gamecard .cardimage {
+  max-width: 341px;
+  max-height: 512px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.gamecard .cardimageNoBack {
+  position: absolute;
+  bottom: 2px;
+  top: unset;
+  left: 50%;
+  transform-origin: bottom center;
+  max-width: 341px;
+  max-height: 512px;
+}
+
+.gamedatalist {
+  display: inline-block;
+  padding: 7px;
+  margin: 7px;
+  text-align: left;
+  margin: auto;
+}
+
+#border-image {
+  font-size: 20px;
+  width: 300px;
+  border: 10px solid black;
+  padding: 35px;
+  margin: 2em;
+  border-image-source: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='22' height='22'  viewBox='0 0 22 22'%3E%3Cpath d='M2,5 Q2,2 5,2L17,2 Q20,2 20,5L20,17 Q20,20 17,20L5,20 Q2,20 2,17Z' stroke='red' fill='none' /%3E%3C/svg%3E");
+  border-image-slice: 5;
+  border-image-repeat: round;
+  border-image-width: 22px;
+}
+
+.save-data {
+  padding-left: 4px;
+  padding-right: 4px;
+  height: 130px;
+  margin-bottom: 10px;
+}
+
+.save-data a {
+  color: #000;
+  text-decoration: none;
+}
+
+.save-data .btn {
+  background-color: #eeeeee;
+  border: 1px solid #999;
+  padding-left: 5px;
+  padding-right: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  height: 100%;
+  width: 100%;
+  text-align: left;
+  vertical-align: middle;
+}
+
+.save-data .btn:hover {
+  background-color: #efdfb2;
+  color: #000;
+}
+
+.small-card-icon {
+  max-width: 20px;
+  max-height: 20px;
+}
+
+.middle-card-icon {
+  max-width: 40px;
+  max-height: 40px;
+}
+
+.save-title {
+  font-size: 1.21em;
+  background-color: #64a5b7;
+  color: #fff;
+  padding: 10px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+.common-card {
+  width: 90px;
+  height: 135px;
+  display: inline-block;
+  margin-right: 5px;
+}
+.common-card .card-foot {
+  left: auto;
+  right: 5px;
+  top: auto;
+  bottom: 5px;
+  font-size: 20px;
+  font-family: fantasy;
+  font-weight: unset;
+}
+.common-card .card-foot-sm {
+  font-size: 10px;
+  font-weight: bold;
+}
+.common-card .card-bg {
+  max-width: 90px;
+  max-height: 135px;
+}
+.common-card .card-img {
+  transform: translate(-50%, 0%) scale(0.2639);
+}
+
+.common-card-gray {
+  filter: grayscale(1) brightness(0.8) opacity(0.75);
+}
+
+.container-fluid .row {
+  padding: 0 0 4em 0;
+}
+.container-fluid .row:nth-child(even) {
+  background: #f1f4f5;
+}
+
+.example-title {
+  text-align: center;
+  margin-bottom: 60px;
+  padding: 3em 0;
+  border-bottom: 1px solid #e4eaec;
+}
+.example-title p {
+  margin: 0 auto;
+  font-size: 16px;
+  max-width: 400px;
+}
+
+/*==================================
+    TIMELINE
+==================================*/
+/*-- GENERAL STYLES
+    ------------------------------*/
+.timeline {
+  line-height: 1.4em;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+.timeline h1,
+.timeline h2,
+.timeline h3,
+.timeline h4,
+.timeline h5,
+.timeline h6 {
+  line-height: inherit;
+}
+
+/*----- TIMELINE ITEM -----*/
+.timeline-item {
+  padding-left: 40px;
+  position: relative;
+}
+.timeline-item:last-child {
+  padding-bottom: 0;
+}
+
+/*----- TIMELINE INFO -----*/
+.timeline-info {
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 3px;
+  margin: 0 0 0.5em 0;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+
+/*----- TIMELINE MARKER -----*/
+.timeline-marker, .timeline-marker-bad-major, .timeline-marker-bad-minor, .timeline-marker-pos-major, .timeline-marker-pos-minor, .timeline-marker-hunt {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 15px;
+}
+.timeline-marker:before, .timeline-marker-bad-major:before, .timeline-marker-bad-minor:before, .timeline-marker-pos-major:before, .timeline-marker-pos-minor:before, .timeline-marker-hunt:before {
+  background: #525252;
+  border: 3px solid transparent;
+  border-radius: 100%;
+  content: "";
+  display: block;
+  height: 15px;
+  position: absolute;
+  top: 4px;
+  left: 0;
+  width: 15px;
+  transition: background 0.3s ease-in-out, border 0.3s ease-in-out;
+}
+.timeline-marker:after, .timeline-marker-bad-major:after, .timeline-marker-bad-minor:after, .timeline-marker-pos-major:after, .timeline-marker-pos-minor:after, .timeline-marker-hunt:after {
+  content: "";
+  width: 3px;
+  background: #ccd5db;
+  display: block;
+  position: absolute;
+  top: 24px;
+  bottom: 0;
+  left: 6px;
+}
+.timeline-item:last-child .timeline-marker:after, .timeline-item:last-child .timeline-marker-bad-major:after, .timeline-item:last-child .timeline-marker-bad-minor:after, .timeline-item:last-child .timeline-marker-pos-major:after, .timeline-item:last-child .timeline-marker-pos-minor:after, .timeline-item:last-child .timeline-marker-hunt:after {
+  content: none;
+}
+
+.timeline-marker-hunt:before {
+  background: #4299f0;
+}
+
+.timeline-marker-pos-minor:before {
+  background: #70ff6b;
+}
+
+.timeline-marker-pos-major:before {
+  background: #f5ff6b;
+}
+
+.timeline-marker-bad-minor:before {
+  background: #ff6bee;
+}
+
+.timeline-marker-bad-major:before {
+  background: #b36bff;
+}
+
+/*----- TIMELINE CONTENT -----*/
+.timeline-content {
+  padding-bottom: 40px;
+}
+.timeline-content img {
+  max-height: 80px;
+  position: absolute;
+  right: 0;
+  top: 0px;
+}
+.timeline-content p:last-child {
+  margin-bottom: 0;
+}
+
+/*----- TIMELINE PERIOD -----*/
+.period {
+  padding: 0;
+}
+.period .timeline-info {
+  display: none;
+}
+.period .timeline-marker:before, .period .timeline-marker-hunt:before, .period .timeline-marker-pos-minor:before, .period .timeline-marker-pos-major:before, .period .timeline-marker-bad-minor:before, .period .timeline-marker-bad-major:before {
+  background: transparent;
+  content: "";
+  width: 15px;
+  height: auto;
+  border: none;
+  border-radius: 0;
+  top: 0;
+  bottom: 30px;
+  position: absolute;
+  border-top: 3px solid #ccd5db;
+  border-bottom: 3px solid #ccd5db;
+}
+.period .timeline-marker:after, .period .timeline-marker-hunt:after, .period .timeline-marker-pos-minor:after, .period .timeline-marker-pos-major:after, .period .timeline-marker-bad-minor:after, .period .timeline-marker-bad-major:after {
+  content: "";
+  height: 32px;
+  top: auto;
+}
+.period .timeline-content {
+  padding: 40px 0 70px;
+}
+.period .timeline-title {
+  margin: 0;
+}
+
+/*----------------------------------------------
+        MOD: TIMELINE SPLIT
+    ----------------------------------------------*/
+@media (min-width: 768px) {
+  .timeline-split .timeline, .timeline-centered .timeline {
+    display: table;
+  }
+  .timeline-split .timeline-item, .timeline-centered .timeline-item {
+    display: table-row;
+    padding: 0;
+  }
+  .timeline-split .timeline-info, .timeline-centered .timeline-info,
+  .timeline-split .timeline-marker,
+  .timeline-centered .timeline-marker,
+  .timeline-split .timeline-marker-hunt,
+  .timeline-centered .timeline-marker-hunt,
+  .timeline-split .timeline-marker-pos-minor,
+  .timeline-centered .timeline-marker-pos-minor,
+  .timeline-split .timeline-marker-pos-major,
+  .timeline-centered .timeline-marker-pos-major,
+  .timeline-split .timeline-marker-bad-minor,
+  .timeline-centered .timeline-marker-bad-minor,
+  .timeline-split .timeline-marker-bad-major,
+  .timeline-centered .timeline-marker-bad-major,
+  .timeline-split .timeline-content,
+  .timeline-centered .timeline-content,
+  .timeline-split .period .timeline-info {
+    display: table-cell;
+    vertical-align: top;
+  }
+  .timeline-split .timeline-marker, .timeline-centered .timeline-marker, .timeline-split .timeline-marker-hunt, .timeline-centered .timeline-marker-hunt, .timeline-split .timeline-marker-pos-minor, .timeline-centered .timeline-marker-pos-minor, .timeline-split .timeline-marker-pos-major, .timeline-centered .timeline-marker-pos-major, .timeline-split .timeline-marker-bad-minor, .timeline-centered .timeline-marker-bad-minor, .timeline-split .timeline-marker-bad-major, .timeline-centered .timeline-marker-bad-major {
+    position: relative;
+  }
+  .timeline-split .timeline-content, .timeline-centered .timeline-content {
+    padding-left: 30px;
+  }
+  .timeline-split .timeline-content img, .timeline-centered .timeline-content img {
+    max-height: 80px;
+    position: absolute;
+    right: 0;
+    top: -40px;
+  }
+  .timeline-split .timeline-info, .timeline-centered .timeline-info {
+    padding-right: 30px;
+  }
+  .timeline-split .period .timeline-title, .timeline-centered .period .timeline-title {
+    position: relative;
+    left: -45px;
+  }
+}
+
+/*----------------------------------------------
+        MOD: TIMELINE CENTERED
+    ----------------------------------------------*/
+@media (min-width: 992px) {
+  .timeline-centered,
+  .timeline-centered .timeline-item,
+  .timeline-centered .timeline-info,
+  .timeline-centered .timeline-marker,
+  .timeline-centered .timeline-marker-hunt,
+  .timeline-centered .timeline-marker-pos-minor,
+  .timeline-centered .timeline-marker-pos-major,
+  .timeline-centered .timeline-marker-bad-minor,
+  .timeline-centered .timeline-marker-bad-major,
+  .timeline-centered .timeline-content {
+    display: block;
+    margin: 0;
+    padding: 0;
+  }
+  .timeline-centered .timeline-item {
+    padding-bottom: 40px;
+    overflow: hidden;
+  }
+  .timeline-centered .timeline-marker, .timeline-centered .timeline-marker-hunt, .timeline-centered .timeline-marker-pos-minor, .timeline-centered .timeline-marker-pos-major, .timeline-centered .timeline-marker-bad-minor, .timeline-centered .timeline-marker-bad-major {
+    position: absolute;
+    left: 50%;
+    margin-left: -7.5px;
+  }
+  .timeline-centered .timeline-info,
+  .timeline-centered .timeline-content {
+    width: 50%;
+  }
+  .timeline-centered > .timeline-item:nth-child(odd) .timeline-info {
+    float: left;
+    text-align: right;
+    padding-right: 30px;
+  }
+  .timeline-centered > .timeline-item:nth-child(odd) .timeline-content {
+    float: right;
+    text-align: left;
+    padding-left: 30px;
+  }
+  .timeline-centered > .timeline-item:nth-child(odd) .timeline-content img {
+    max-height: 80px;
+    position: absolute;
+    right: 0;
+    top: -30px;
+  }
+  .timeline-centered > .timeline-item:nth-child(even) .timeline-info {
+    float: right;
+    text-align: left;
+    padding-left: 30px;
+  }
+  .timeline-centered > .timeline-item:nth-child(even) .timeline-content {
+    float: left;
+    text-align: right;
+    padding-right: 30px;
+  }
+  .timeline-centered > .timeline-item:nth-child(even) .timeline-content img {
+    max-height: 80px;
+    position: absolute;
+    left: 0;
+    top: -30px;
+  }
+  .timeline-centered > .timeline-item.period .timeline-content {
+    float: none;
+    padding: 0;
+    width: 100%;
+    text-align: center;
+  }
+  .timeline-centered .timeline-item.period {
+    padding: 50px 0 90px;
+  }
+  .timeline-centered .period .timeline-marker:after, .timeline-centered .period .timeline-marker-hunt:after, .timeline-centered .period .timeline-marker-pos-minor:after, .timeline-centered .period .timeline-marker-pos-major:after, .timeline-centered .period .timeline-marker-bad-minor:after, .timeline-centered .period .timeline-marker-bad-major:after {
+    height: 30px;
+    bottom: 0;
+    top: auto;
+  }
+  .timeline-centered .period .timeline-title {
+    left: auto;
+  }
+}
+
+/*----------------------------------------------
+        MOD: MARKER OUTLINE
+    ----------------------------------------------*/
+.marker-outline .timeline-marker:before, .marker-outline .timeline-marker-hunt:before, .marker-outline .timeline-marker-pos-minor:before, .marker-outline .timeline-marker-pos-major:before, .marker-outline .timeline-marker-bad-minor:before, .marker-outline .timeline-marker-bad-major:before {
+  background: transparent;
+  border-color: #525252;
+}
+.marker-outline .timeline-item:hover .timeline-marker:before, .marker-outline .timeline-item:hover .timeline-marker-hunt:before, .marker-outline .timeline-item:hover .timeline-marker-pos-minor:before, .marker-outline .timeline-item:hover .timeline-marker-pos-major:before, .marker-outline .timeline-item:hover .timeline-marker-bad-minor:before, .marker-outline .timeline-item:hover .timeline-marker-bad-major:before {
+  background: #525252;
+}
+
+/*# sourceMappingURL=style.css.map */

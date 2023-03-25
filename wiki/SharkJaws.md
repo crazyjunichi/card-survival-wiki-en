@@ -1,0 +1,15 @@
+# Shark Jaws  
+> Could use it to make a nice decorative trophy.  
+  
+<table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  >**Weight：**100</td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="SharkJaws.md" style="color:black"><img class="bg" decoding="async" src="Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="Sprite/SharkJaws.png" class="cardimageNoBack" style="transform: translate(-50%, 0%) scale(0.4398826979472141);"><span style="font-size: 25px;">Shark Jaws</span></a></div></div>A large fish that can potentially bite if you get unlucky. It can only be found at the island's bay or during raft voyages.<br>Its meat is more nutritious than normal fish and can also be smoked. It's jaws make for a nice decoration too!</td></tr></tbody></table>  
+  
+## Got From  
+<div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">Dismantle</div><div style="display:inline-block;vertical-align:middle;">[Shark Headpiece](SharkHeadpiece.md)</div></div></div><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">** With：**[Obsidian Knife](KnifeObsidian.md)Cut Meat</div><div style="display:inline-block;vertical-align:middle;">[Shark Carcass](SharkCarcass.md)</div></div></div><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">** With：**[“Cutter”](tag_Cutter.md)Cut Meat</div><div style="display:inline-block;vertical-align:middle;">[Shark Carcass](SharkCarcass.md)</div></div></div></div>  
+  
+## Use In BluePrint  
+<div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:100px;min-height:0px;"><div class="gamecard" style="width:80px; height:120px;"><a href="Bp_SharkHeadpiece.md" style="color:black"><img class="bg" decoding="async" src="Sprite/BG_SandTop.png" href="a.md" style="max-width:80px;max-height:120px;"><img decoding="async" src="Sprite/SharkHeadpiece.png" class="cardimageNoBack" style="transform: translate(-50%, 0%) scale(0.23460410557184752);"><span style="font-size: 13.333333333333334px;">Shark Headpiece</span><img decoding="async" src="../wiki/Sprite/Blueprints.png" style="position: absolute;left:10px;bottom:10px; max-width:23px"></a></div></div></div>  
+  
+  
+
+
+<script>document.title="Shark Jaws - Card Survival Wiki";</script>

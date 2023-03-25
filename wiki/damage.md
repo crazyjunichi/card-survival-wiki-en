@@ -1,0 +1,6 @@
+# Damage  
+<div style="display:inline-block"><div class="gamedatalist" style="text-align:center;min-width:150px;min-height:0px;"><div style="text-align:center;">[<div style="width:50px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CollapsedRoof.png" href="a.md" style="max-width:50px;max-height:50px;"></div><br>[Collapsed Roof](Dmg_RoofCollapsed.md)](Dmg_RoofCollapsed.md)</div></div><div class="gamedatalist" style="text-align:center;min-width:150px;min-height:0px;"><div style="text-align:center;">[<div style="width:50px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/RoofDamage.png" href="a.md" style="max-width:50px;max-height:50px;"></div><br>[Roof Damage](Dmg_RaftDamage.md)](Dmg_RaftDamage.md)</div></div><div class="gamedatalist" style="text-align:center;min-width:150px;min-height:0px;"><div style="text-align:center;">[<div style="width:50px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/RoofDamage.png" href="a.md" style="max-width:50px;max-height:50px;"></div><br>[Roof Damage](Dmg_RoofDamage.md)](Dmg_RoofDamage.md)</div></div></div>  
+  
+
+
+<script>document.title="Damage - Card Survival Wiki";</script>

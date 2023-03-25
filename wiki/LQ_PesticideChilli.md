@@ -1,0 +1,17 @@
+# Chilli Pesticide  
+> Spray it on crops to protect them against mites and animals.  
+  
+<table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  >**Weight：**0.33</td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="LQ_PesticideChilli.md" style="color:black"><img decoding="async" src="Sprite/Pesticide.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">Chilli Pesticide</span></a></div></div>"Chili can be found in the <b>grasslands</b> of the island. If you let it dry on a <b>drying rack</b></td></tr></tbody></table>  
+  
+## Got From  
+<div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">Craft BluePrint</div><div style="display:inline-block;vertical-align:middle;">[Chilli Pesticide(BluePrint)](Bp_PesticideChilli.md)</div></div></div></div>  
+  
+## Drag With  
+<div  style="border:1px solid #CCC;"><table style="margin-bottom:0px;"><tr><td style="width:40%;text-align:left; background-color:#FEFEFE"><b>With：</b>[“Crop”](tag_Crop.md)</td><td style="width:40%;font-size:1em;font-weight:bold;background-color:#FEFEFE">Apply (<font data-toggle="tooltip" data-placement="top" title="1TP">15m</font>) </td></tr><tr style="background-color:#FFFFFF"><td style=""><b>Receiving：</b>Pesticide - Mites<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/MitesNot.png" href="a.md" style="max-width:20px;max-height:20px;"></div>  <span style="font-family:ui-monospace"><b>+380(131.94%)</b></span></td><td style=""><b>Self：</b></td></tr></table></div>  
+  
+## Passive Effects  
+<table class="table table-bordered" data-toggle="table"  ><thead style=""><tr ><th  style="text-align:left;vertical-align:top;"  >Name</th><th  style="text-align:left;vertical-align:top;"  >Condition</th><th  style="text-align:left;vertical-align:top;"  >Change(Each TP)</th><th  style="text-align:left;vertical-align:top;"  data-sortable="true"  >Status</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;"  >Evaporation</td><td  style="text-align:left;vertical-align:top;"  >** Require Container：**<br>[“Container Open”](tag_ContainerOpen.md)</td><td  style="text-align:left;vertical-align:top;"  >LiquidQuantity-1</td><td  style="text-align:left;vertical-align:top;"  ></td></tr></tbody></table>  
+  
+
+
+<script>document.title="Chilli Pesticide - Card Survival Wiki";</script>

@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Card Survival Wiki</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no" />
+        <meta name="fragment" content="!" />
+        <link rel="shortcut icon" type="image/x-icon" href="wiki/favicon.png" />
+        <meta charset="UTF-8" />
+        <style type="text/css">
+            /* hide the main content while we assemble everything */
+            #screen {
+                width: 100%;
+                position: relative;
+                text-align: center;
+            }
+
+            #screen img {
+                width: 100%;
+            }
+
+            .wiki-title {
+                font-size: 8vw;
+                font-weight: bolder;
+                color: black;
+                position: absolute;
+                /* left: 50%; */
+                text-align: center;
+                width: 100%;
+                top: 16vw;
+                text-shadow: 0 0 10px #fff, 0 0 10px #fff, 0 0 10px #fff, 0 0 10px #fff;
+            }
+            .game-title {
+                font-size: 8vw;
+                font-weight: bolder;
+                color: red;
+                position: absolute;
+                /* left: 50%; */
+                text-align: center;
+                width: 100%;
+                top: 0vw;
+                text-shadow: 0 0 10px #fff, 0 0 10px #fff, 0 0 10px #fff, 0 0 10px #fff;
+            }
+            .sub-title {
+                font-size: 3vw;
+                font-weight: bolder;
+                color: white;
+                position: absolute;
+                /* left: 50%; */
+                text-align: center;
+                width: 100%;
+                top: 16vw;
+                text-shadow: 0 0 10px #000, 0 0 10px #000, 0 0 10px #000, 0 0 10px #000;
+            }
+            #screen a {
+                color: unset;
+                text-decoration: none;
+            }
+            #screen .btn {
+                width: 17vw;
+                height: 6vw;
+                position: absolute;
+                background-color: #eeeeee;
+                border: 2px solid #2f4339;
+                text-align: center;
+                vertical-align: middle;
+                font-size: 4vw;
+                /* line-height: 4vw; */
+            }
+            #screen .btn-left {
+                left: 25%;
+                bottom: 10vw;
+            }
+            #screen .btn-right {
+                right: 25%;
+                bottom: 10vw;
+            }
+            #screen .btn:hover {
+                background-color: #efdfb2;
+            }
+        </style>
+    </head>
+    <body>
+        <noscript>
+            This website requires Javascript to be enabled. Please turn on Javascript and reload the page.
+        </noscript>
+
+        <div id="screen">
+            <img src="image/CardSurvivalSplash2.jpg" />
+            <div class="game-title"><p>Card Survival</p></div>
+            <div class="sub-title"><p>Tropical Island</p></div>
+            <div class="wiki-title"><p>Wiki</p></div>
+            <div class="btn btn-left">
+                <a href="wiki/index.html"><div>中文版</div></a>
+            </div>
+            <div class="btn btn-right">
+                <a href="en/index.html"><div>English</div></a>
+            </div>
+        </div>
+    </body>
+</html>

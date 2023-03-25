@@ -1,0 +1,12 @@
+# It's time!  
+> Your baby is coming now!<br><br>  
+  
+<table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  >** Cannot Be Trashed **<br><br><div style="display: inline-block;width:70px; "><b>Trigger: </b></div>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Pregnancy.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[Pregnancy](Pregnancy.md)](Pregnancy.md): <span style="font-family:ui-monospace"><b>8640-8640</b></span></td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Event_Pregnancy.md" style="color:black"><img decoding="async" src="Sprite/Baby.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">It's time!</span></a></div></div></td></tr></tbody></table>  
+  
+## Action  
+<div  style="border:1px solid #BBB"><table><tr><td rowspan="2" style="width:200px;text-align:center;font-size:1.3em;font-weight:bold"><div style="padding:5px;border:1px dashed #333"><div>Give Birth!</div><div style="font-size:0.6em;"><font data-toggle="tooltip" data-placement="top" title="4TP">1h</font></div></div></td><td></td></tr><tr><td><b>Self：</b>→Dismiss</td></tr><tr><td colspan="2"><b>StatChange：</b>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[Morale](Morale.md)](Morale.md)<span style="font-family:ui-monospace"><b>+250</b></span>, [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Tired.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[Stamina](Stamina.md)](Stamina.md)<span style="font-family:ui-monospace"><b>-20</b></span></td></tr><tr><td colspan="2">[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Baby.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[Baby](Baby.md)](Baby.md)(<span style="font-family:ui-monospace"><b>+1</b></span>)</td></tr></table></div>  
+  
+  
+
+
+<script>document.title="It's time! - Card Survival Wiki";</script>

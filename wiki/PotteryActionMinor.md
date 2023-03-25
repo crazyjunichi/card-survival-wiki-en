@@ -1,0 +1,6 @@
+# “PotteryActionMinor(Group)”  
+<div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;">Craft BluePrint [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/ClayBowl.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[Clay Bowl(BluePrint)](Bp_ClayBowl.md)](Bp_ClayBowl.md)</div><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;">Craft BluePrint [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/ClayFirePitExtinguished.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[Clay Fire Pit(BluePrint)](Bp_ClayFirePit.md)](Bp_ClayFirePit.md)</div><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;">Craft BluePrint [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/ClayJar.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[Clay Jar(BluePrint)](Bp_ClayJar.md)](Bp_ClayJar.md)</div></div>  
+  
+
+
+<script>document.title="“PotteryActionMinor(Group)” - Card Survival Wiki";</script>

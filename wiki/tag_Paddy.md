@@ -1,0 +1,6 @@
+# “Paddy”  
+<table class="table table-bordered" data-toggle="table"  ><thead style=""><tr ><th  style="text-align:left;vertical-align:top;"  >Name</th><th  style="text-align:left;vertical-align:top;"  >LiquidCapacity</th><th  style="text-align:left;vertical-align:top;"  >Sealed</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;"  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/RicePaddyEmptyPlanted.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[Rice Paddy](RicePaddy.md)](RicePaddy.md)</td><td  style="text-align:left;vertical-align:top;"  >2000 (6.666666666666667portions)</td><td  style="text-align:left;vertical-align:top;"  >❌</td></tr><tr ><td  style="text-align:left;vertical-align:top;"  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/RicePaddyEmpty.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[Empty Rice Paddy(Empty)](RicePaddyEmpty.md)](RicePaddyEmpty.md)</td><td  style="text-align:left;vertical-align:top;"  >2000 (6.666666666666667portions)</td><td  style="text-align:left;vertical-align:top;"  >❌</td></tr></tbody></table>  
+  
+
+
+<script>document.title="“Paddy” - Card Survival Wiki";</script>

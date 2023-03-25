@@ -1,0 +1,14 @@
+# Cesspool  
+> I should use a shovel to clean it up.  
+  
+<table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  >** DoseNotPile **<br><br>** Effect: **<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Discomfort.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[Discomfort](Discomfort.md)](Discomfort.md)<span style="font-family:ui-monospace"><b>+750</b></span></td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Cesspool.md" style="color:black"><img class="bg" decoding="async" src="Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="Sprite/Cesspool.png" class="cardimageNoBack" style="transform: translate(-50%, 0%) scale(0.4398826979472141);"><span style="font-size: 25px;">Cesspool</span></a></div></div>A Cesspool is what remains after a niter bed has produced niter crystals. It's terrible odor will make being near it a very uncomfortable experience.<br><br>A <b>Shovel</b> is needed to properly clear it.</td></tr></tbody></table>  
+  
+## Got From  
+<div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">Transform</div><div style="display:inline-block;vertical-align:middle;">[Niter Bed](NiterBed.md)</div></div></div></div>  
+  
+## Drag With  
+<div  style="border:1px solid #CCC;"><table style="margin-bottom:0px;"><tr><td style="width:40%;text-align:left; background-color:#FEFEFE"><b>With：</b>[“Shovel”](tag_Shovel.md)</td><td style="width:40%;font-size:1em;font-weight:bold;background-color:#FEFEFE">Clean Up (<font data-toggle="tooltip" data-placement="top" title="4TP">1h</font>) </td></tr><tr style="background-color:#FFFFFF"><td style=""><b>Receiving：</b></td><td style=""><b>Self：</b>→Dismiss</td></tr><tr><td colspan="2"><b>StatChange：</b>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Dirt3.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[Filth](Filth.md)](Filth.md)<span style="font-family:ui-monospace"><b>+50</b></span></td></tr></table></div>  
+  
+
+
+<script>document.title="Cesspool - Card Survival Wiki";</script>

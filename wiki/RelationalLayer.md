@@ -1,0 +1,13 @@
+# Relational Layer  
+  
+<div style="font-size:1.2em"><b>Base Value: </b> 0 </div>  
+<div style="font-size:1.2em"><b>Value Range: </b> 0 ~ 3 </div>  
+<div style="font-size:1.2em"><b>Base Rate: </b> - </div>  
+## Related Cards  
+[Altered Mind State](MindState.md)  
+## Change By  
+<table class="table table-bordered" data-toggle="table"  ><thead style=""><tr ><th  style="text-align:left;vertical-align:top;"  >From</th><th  style="text-align:left;vertical-align:top;"  >Operation</th><th  style="text-align:left;vertical-align:top;"  data-sortable="true"  >Value</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;"  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/God.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[Divine Insight(Event)](Event_GodExperience1g.md)](Event_GodExperience1g.md)</td><td  style="text-align:left;vertical-align:top;"  >HOLD ON TIGHT!</td><td  style="text-align:left;vertical-align:top;"  >1</td></tr><tr ><td  style="text-align:left;vertical-align:top;"  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/WeatherClear_Full.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[Divine Insight(Event)](Event_HuntedExperience1g.md)](Event_HuntedExperience1g.md)(未实装)</td><td  style="text-align:left;vertical-align:top;"  >HOLD ON TIGHT!</td><td  style="text-align:left;vertical-align:top;"  >1</td></tr><tr ><td  style="text-align:left;vertical-align:top;"  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Darkness.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[Void Insight(Event)](Event_SpiritsEverywhere1g.md)](Event_SpiritsEverywhere1g.md)(未实装)</td><td  style="text-align:left;vertical-align:top;"  >UNBEARABLE MIND PAIN!</td><td  style="text-align:left;vertical-align:top;"  >1</td></tr><tr ><td  style="text-align:left;vertical-align:top;"  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Void.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[Void Insight(Event)](Event_VoidExperience1g.md)](Event_VoidExperience1g.md)</td><td  style="text-align:left;vertical-align:top;"  >My mind is breaking!</td><td  style="text-align:left;vertical-align:top;"  >1</td></tr></tbody></table>  
+  
+
+
+<script>document.title="Relational Layer - Card Survival Wiki";</script>

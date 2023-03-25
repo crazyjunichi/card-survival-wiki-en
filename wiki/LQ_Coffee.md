@@ -1,0 +1,20 @@
+# Coffee  
+> It should help me stay awake!  
+  
+<table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  >**Weight：**0.33</td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="LQ_Coffee.md" style="color:black"><img decoding="async" src="Sprite/CoconutShellCoffee.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">Coffee</span></a></div></div>"The most popular beverage in the world!<br><br><b>Coffee Plants</b> can be found in the <b>Jungle Highlands</b> or grown in crop plots.<br><br>Harvest their <b>Berries</b> and extract the <b>beans</b> from them. <br>Then</td></tr></tbody></table>  
+  
+## Got From  
+<div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">** With：**[Boiling Water](LQ_WaterBoiling.md)Make Coffee</div><div style="display:inline-block;vertical-align:middle;">[Roasted Coffee Beans](CoffeeRoastedBeans.md)</div></div></div></div>  
+  
+## Action  
+<div  style="border:1px solid #BBB"><table><tr><td rowspan="2" style="width:200px;text-align:center;font-size:1.3em;font-weight:bold"><div style="padding:5px;border:1px dashed #333"><div>Drink</div><div style="font-size:0.6em;"><font data-toggle="tooltip" data-placement="top" title="0.2TP">3m</font></div></div></td><td></td></tr><tr><td><b>Self：</b>Spoilage  <span style="font-family:ui-monospace"><b>-250(-52.08%)</b></span></td></tr><tr><td colspan="2"><b>StatChange：</b>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[Hydration ](Hydration.md)](Hydration.md)<span style="font-family:ui-monospace"><b>+40</b></span>, [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Caffeine.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[Caffeine](Caffeine.md)](Caffeine.md)<span style="font-family:ui-monospace"><b>+12</b></span></td></tr></table></div>  
+  
+  
+## Durability   
+<div  style="border:1px solid #CCC;"><table style="margin-bottom:0px;"><tr><td style="width:30%;text-align:left; background-color:#FEFEFE;font-size:1.3em;font-weight:bold;">Spoilage</td><td style="font-size:1em;background-color:#FEFEFE">Starting：480 , Max：480<br>-0.5/TP , Duration ：<font data-toggle="tooltip" data-placement="top" title="960TP">10d</font></td></tr><tr style="background-color:#FFFFFF"><td colspan=2>** On Zero： **<br>Self: → [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[Unsafe Water](LQ_WaterUnsafe.md)](LQ_WaterUnsafe.md)</td></tr></table></div>  
+## Passive Effects  
+<table class="table table-bordered" data-toggle="table"  ><thead style=""><tr ><th  style="text-align:left;vertical-align:top;"  >Name</th><th  style="text-align:left;vertical-align:top;"  >Condition</th><th  style="text-align:left;vertical-align:top;"  >Change(Each TP)</th><th  style="text-align:left;vertical-align:top;"  data-sortable="true"  >Status</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;"  >Evaporation</td><td  style="text-align:left;vertical-align:top;"  >** Require Container：**<br>[“Container Open”](tag_ContainerOpen.md)</td><td  style="text-align:left;vertical-align:top;"  >Spoilage -0.5(-0.11%)<br>LiquidQuantity-1</td><td  style="text-align:left;vertical-align:top;"  ></td></tr></tbody></table>  
+  
+
+
+<script>document.title="Coffee - Card Survival Wiki";</script>

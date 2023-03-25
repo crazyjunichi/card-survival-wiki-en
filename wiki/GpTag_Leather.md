@@ -1,0 +1,6 @@
+# “Leather(Group)”  
+<div style="display:inline-block"><div class="gamedatalist" style="text-align:center;;min-height:0px;"><div class="gamecard" style="width:100px; height:150px;"><a href="CuredSkin.md" style="color:black"><img class="bg" decoding="async" src="Sprite/BG_SandFront.png" href="a.md" style="max-width:100px;max-height:150px;"><img decoding="async" src="Sprite/HideCured.png" class="cardimageNoBack" style="transform: translate(-50%, 0%) scale(0.2932551319648094);"><span style="font-size: 16.666666666666668px;">Cured Skin</span></a></div></div><div class="gamedatalist" style="text-align:center;;min-height:0px;"><div class="gamecard" style="width:100px; height:150px;"><a href="CuredSkinReptile.md" style="color:black"><img class="bg" decoding="async" src="Sprite/BG_SandFront.png" href="a.md" style="max-width:100px;max-height:150px;"><img decoding="async" src="Sprite/ReptileHideCured.png" class="cardimageNoBack" style="transform: translate(-50%, 0%) scale(0.2932551319648094);"><span style="font-size: 16.666666666666668px;">Cured Reptile Skin</span></a></div></div></div>  
+  
+
+
+<script>document.title="“Leather(Group)” - Card Survival Wiki";</script>

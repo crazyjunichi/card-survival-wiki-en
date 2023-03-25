@@ -1,0 +1,14 @@
+# Giant Conch  
+> A beautiful conch of considerable size. Would look great on a shelf.  
+  
+<table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  >**Weight：**150<br><br>**Tag：**	[“Decoration”](tag_Decoration.md)</td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="GiantConch.md" style="color:black"><img class="bg" decoding="async" src="Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="Sprite/Conch.png" class="cardimageNoBack" style="transform: translate(-50%, 0%) scale(0.4398826979472141);"><span style="font-size: 25px;">Giant Conch</span></a></div></div></td></tr></tbody></table>  
+  
+## Got From  
+<div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">Go for a Walk</div><div style="display:inline-block;vertical-align:middle;">[Bay](Bay.md)</div></div></div><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">Dive</div><div style="display:inline-block;vertical-align:middle;">[Sea(Bay)](Sea_Bay.md)</div></div></div></div>  
+  
+## Drag With  
+<div  style="border:1px solid #CCC;"><table style="margin-bottom:0px;"><tr><td style="width:40%;text-align:left; background-color:#FEFEFE"><b>With：</b>[“Hammer”](tag_Hammer.md)</td><td style="width:40%;font-size:1em;font-weight:bold;background-color:#FEFEFE">Break Conch  [“HandAction(Group)”](HandAction.md)</td></tr><tr><td colspan="2"><b>Require：</b>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Darkness17609.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[Light](Light.md)](Light.md): <span style="font-family:ui-monospace"><b>10-100</b></span></td></tr><tr style="background-color:#FFFFFF"><td style=""><b>Receiving：</b></td><td style=""><b>Self：</b>→Dismiss</td></tr><tr><td colspan="2">[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/ConchBroken.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[Crushed Conch](ConchBroken.md)](ConchBroken.md)(<span style="font-family:ui-monospace"><b>+3</b></span>)</td></tr></table></div>  
+  
+
+
+<script>document.title="Giant Conch - Card Survival Wiki";</script>

@@ -1,0 +1,15 @@
+# Captain Propinquity  
+  
+<div style="font-size:1.2em"><b>Base Value: </b> 0 </div>  
+<div style="font-size:1.2em"><b>Value Range: </b> 0 ~ 5000 </div>  
+<div style="font-size:1.2em"><b>Base Rate: </b> - </div>  
+## Statuses  
+<div  style="border:1px solid #BBB"><table><tr style="height:2em;"><td style="background-color:#F0F0F0;text-align:center;width:180px;font-size:1.4em;font-weight:bold;vertical-align:middle;"><div>4000 ～ 5000<div><div style="font-size:0.4em">80% ～ 100%</div></td><td colspan=2 style="font-size:1.1em;vertical-align:middle;background-color:#F9F9F9;"><div><b>Bad Friends</b></div><div style="font-size:0.8em;padding-top:4px;"></div></td></tr><tr><td colspan=2><b>Effect：</b>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Loneliness.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[Loneliness](Loneliness.md)](Loneliness.md)addition<span style="font-family:ui-monospace"><b>-1</b></span>, [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Structure.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[Mental Structure](Structure.md)](Structure.md)addition<span style="font-family:ui-monospace"><b>-1</b></span></td></tr><tr><td colspan=2></td></tr></table></div>  
+## Related Cards  
+[Captain Company](CaptainCompany.md)  
+## Required By  
+<table class="table table-bordered" data-toggle="table"  ><thead style=""><tr ><th  style="text-align:left;vertical-align:top;"  >From</th><th  style="text-align:left;vertical-align:top;"  >Operation</th><th  style="text-align:left;vertical-align:top;"  data-sortable="true"  >Value</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;"  >[Captain](Captain.md)</td><td  style="text-align:left;vertical-align:top;"  >Talk</td><td  style="text-align:left;vertical-align:top;"  >3001 ~ 4000</td></tr><tr ><td  style="text-align:left;vertical-align:top;"  >[Captain](Captain.md)</td><td  style="text-align:left;vertical-align:top;"  >Talk</td><td  style="text-align:left;vertical-align:top;"  >2001 ~ 3000</td></tr><tr ><td  style="text-align:left;vertical-align:top;"  >[Captain(Special1a)(Event)](Event_CaptainSpecial1a.md)</td><td  style="text-align:left;vertical-align:top;"  >Event</td><td  style="text-align:left;vertical-align:top;"  >2000 ~ 3000</td></tr><tr ><td  style="text-align:left;vertical-align:top;"  >[Captain](Captain.md)</td><td  style="text-align:left;vertical-align:top;"  >Talk</td><td  style="text-align:left;vertical-align:top;"  >1001 ~ 2000</td></tr><tr ><td  style="text-align:left;vertical-align:top;"  >[Captain](Captain.md)</td><td  style="text-align:left;vertical-align:top;"  >Talk</td><td  style="text-align:left;vertical-align:top;"  >0 ~ 1000</td></tr></tbody></table>  
+  
+
+
+<script>document.title="Captain Propinquity - Card Survival Wiki";</script>

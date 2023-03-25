@@ -1,0 +1,14 @@
+# Goat Feed  
+> "Goat food  
+  
+<table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  >**Weight：**25<br><br>**Tag：**	[“Cookable”](tag_Cookable.md), [“Feed Herbivore”](tag_FeedHerb.md), [“Rich Fibers”](tag_FibersRich.md)</td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="FeedGoat.md" style="color:black"><img class="bg" decoding="async" src="Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="Sprite/GoatFeed.png" class="cardimageNoBack" style="transform: translate(-50%, 0%) scale(0.4398826979472141);"><span style="font-size: 25px;">Goat Feed</span></a></div></div>"Food for Goats</td></tr></tbody></table>  
+  
+## Got From  
+<div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">Craft BluePrint</div><div style="display:inline-block;vertical-align:middle;">[Goat Feed(BluePrint)](Bp_FeedGoat.md)</div></div></div></div>  
+  
+## Drag To  
+<div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:100px;min-height:0px;">[Goat Feeder](GoatFeeder.md)</div><div class="gamedatalist" style="text-align:left;min-width:100px;min-height:0px;">[Goat Feeder(Empty)](GoatFeederEmpty.md)</div><div class="gamedatalist" style="text-align:left;min-width:100px;min-height:0px;">[Goat](GoatEnclosureFemale.md)</div><div class="gamedatalist" style="text-align:left;min-width:100px;min-height:0px;">[Juvenile Goat](GoatEnclosureKid.md)</div><div class="gamedatalist" style="text-align:left;min-width:100px;min-height:0px;">[Lactating Goat](GoatEnclosureLactating.md)</div><div class="gamedatalist" style="text-align:left;min-width:100px;min-height:0px;">[Male Goat](GoatEnclosureMale.md)</div><div class="gamedatalist" style="text-align:left;min-width:100px;min-height:0px;">[Goat](GoatTiedFemale.md)</div><div class="gamedatalist" style="text-align:left;min-width:100px;min-height:0px;">[Lactating Goat](GoatTiedFemaleLactating.md)</div><div class="gamedatalist" style="text-align:left;min-width:100px;min-height:0px;">[Juvenile Goat](GoatTiedKid.md)</div><div class="gamedatalist" style="text-align:left;min-width:100px;min-height:0px;">[Male Goat](GoatTiedMale.md)</div></div>  
+  
+
+
+<script>document.title="Goat Feed - Card Survival Wiki";</script>

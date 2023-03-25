@@ -1,0 +1,13 @@
+# Splint  
+> Can help heal fractures and sprained ligaments faster.   
+  
+<table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  >**Weight：**250<br><br>**装备时减重：**-50<br><br>**Usage：**672</td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Splint.md" style="color:black"><img class="bg" decoding="async" src="Sprite/BG_SandFront.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="Sprite/Splint.png" class="cardimageNoBack" style="transform: translate(-50%, 0%) scale(0.4398826979472141);"><span style="font-size: 25px;">Splint</span></a></div></div>"In case of a <b>Sprain or Fracture</b></td></tr></tbody></table>  
+  
+## Got From  
+<div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">Craft BluePrint</div><div style="display:inline-block;vertical-align:middle;">[Splint(BluePrint)](Bp_Splint.md)</div></div></div></div>  
+  
+## Durability   
+<div  style="border:1px solid #CCC;"><table style="margin-bottom:0px;"><tr><td style="width:30%;text-align:left; background-color:#FEFEFE;font-size:1.3em;font-weight:bold;">Usage</td><td style="font-size:1em;background-color:#FEFEFE">Starting：672 , Max：672<br>-</td></tr><tr style="background-color:#FFFFFF"><td colspan=2>** On Zero： **<br>Self: →Dismiss<br>[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Kindling.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[Sticks](Sticks.md)](Sticks.md)(<span style="font-family:ui-monospace"><b>+1</b></span>), [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CordFiber.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[Fiber Cord](CordFiber.md)](CordFiber.md)(<span style="font-family:ui-monospace"><b>+3</b></span>)</td></tr></table></div>  
+
+
+<script>document.title="Splint - Card Survival Wiki";</script>

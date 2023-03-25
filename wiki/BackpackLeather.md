@@ -1,0 +1,11 @@
+# Leather Backpack  
+> I can store things inside. <b>CAN BE EQUIPPED ON EQUIPMENT SLOTS</b><br><br>  
+  
+<table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  >** Cannot Be Trashed **<br><br>** DoseNotPile **<br><br>**Weight：**500<br><br>**装备时减重：**-400<br><br>**Tag：**	[“Bag”](tag_Bag.md), [“Backpack”](tag_Backpack.md)<br><br>**Equipped Cards：**[“Back Item”](eTag_Backpack.md)<br><br>**Slots：**6<br><br>**过滤器：**~~[“Bag”](tag_Bag.md)~~ , ~~[“Large”](tag_Large.md)~~ , ~~[“Fire Source”](tag_FireSource.md)~~ , ~~[“Fire”](tag_Fire.md)~~ , ~~[“Spillable”](tag_Spillable.md)~~<br><br>**WeightCapacity：**1500<br><br>**WeightRedution：**-1500</td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="BackpackLeather.md" style="color:black"><img class="bg" decoding="async" src="Sprite/BG_SandFront.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="Sprite/BackpackLeather.png" class="cardimageNoBack" style="transform: translate(-50%, 0%) scale(0.4398826979472141);"><span style="font-size: 25px;">Leather Backpack</span></a></div></div>A large backpack made of <b>Leather and Cord</b>. <br><br>Can carry a large amount of things and be equiped on your back slot.</td></tr></tbody></table>  
+  
+## Got From  
+<div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">Craft BluePrint</div><div style="display:inline-block;vertical-align:middle;">[Leather Backpack(BluePrint)](Bp_LeatherBackpack.md)</div></div></div></div>  
+  
+
+
+<script>document.title="Leather Backpack - Card Survival Wiki";</script>

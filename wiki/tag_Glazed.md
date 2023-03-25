@@ -1,0 +1,6 @@
+# “Glazed”  
+<table class="table table-bordered" data-toggle="table"  ><thead style=""><tr ><th  style="text-align:left;vertical-align:top;"  >Name</th><th  style="text-align:left;vertical-align:top;"  >LiquidCapacity</th><th  style="text-align:left;vertical-align:top;"  >Sealed</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;"  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/AcidShore.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[Dry Acid Lake(Volcano)](AcidLakePuddle.md)](AcidLakePuddle.md)</td><td  style="text-align:left;vertical-align:top;"  >60000 (200portions)</td><td  style="text-align:left;vertical-align:top;"  >❌</td></tr><tr ><td  style="text-align:left;vertical-align:top;"  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/GlazedVase.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[Glazed Vase](GlazedVase.md)](GlazedVase.md)</td><td  style="text-align:left;vertical-align:top;"  >900 (3portions)</td><td  style="text-align:left;vertical-align:top;"  >✅</td></tr></tbody></table>  
+  
+
+
+<script>document.title="“Glazed” - Card Survival Wiki";</script>

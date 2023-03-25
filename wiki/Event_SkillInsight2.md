@@ -1,0 +1,12 @@
+# You had an epiphany!  
+> "You mind's eye notices how it is not only your past that is constraining your present  
+  
+<table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="display: inline-block;width:70px; "><b>Trigger: </b></div>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Sling.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[Thought Depth](ThoughtDepth.md)](ThoughtDepth.md): <span style="font-family:ui-monospace"><b>50-100</b></span></td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Event_SkillInsight2.md" style="color:black"><img class="bg" decoding="async" src="Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="Sprite/BigIsland.png" class="cardimageNoBack" style="transform: translate(-50%, 0%) scale(0.4398826979472141);"><span style="font-size: 25px;">You had an epiphany!</span></a></div></div></td></tr></tbody></table>  
+  
+## Action  
+<div  style="border:1px solid #BBB"><table><tr><td rowspan="2" style="width:200px;text-align:center;font-size:1.3em;font-weight:bold"><div style="padding:5px;border:1px dashed #333"><div>Continue</div></div></td><td></td></tr><tr><td><b>Self：</b>→Dismiss</td></tr><tr><td colspan="2"><b>StatChange：</b>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/MindState.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[Insight(Skill)](Skill_Insight.md)](Skill_Insight.md)<span style="font-family:ui-monospace"><b>+10</b></span>, [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[Morale](Morale.md)](Morale.md)<span style="font-family:ui-monospace"><b>+100</b></span></td></tr></table></div>  
+  
+  
+
+
+<script>document.title="You had an epiphany! - Card Survival Wiki";</script>

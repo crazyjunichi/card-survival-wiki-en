@@ -1,0 +1,14 @@
+# Unfired Clay Jar  
+> It needs to be fired in a kiln.  
+  
+<table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  >**Weight：**100<br><br>**Tag：**	[“Clay”](tag_Clay.md)</td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="ClayJarUnfired.md" style="color:black"><img class="bg" decoding="async" src="Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="Sprite/ClayJar.png" class="cardimageNoBack" style="transform: translate(-50%, 0%) scale(0.4398826979472141);"><span style="font-size: 25px;">Unfired Clay Jar</span></a></div></div>"Clay Jars are small liquid containers that are relatively air tight.<br><br>Their lids will <b>stop evaporation or slow down spoilage</b></td></tr></tbody></table>  
+  
+## Got From  
+<div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">Craft BluePrint</div><div style="display:inline-block;vertical-align:middle;">[Clay Jar(BluePrint)](Bp_ClayJar.md)</div></div></div></div>  
+  
+## Use To Transform  
+<table class="table table-bordered" data-toggle="table"  ><thead style=""><tr ><th  style="text-align:left;vertical-align:top;"  >Transform to</th><th  style="text-align:left;vertical-align:top;"  >Container</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;"  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/ClayJar.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[Clay Jar](ClayJar.md)](ClayJar.md)</td><td  style="text-align:left;vertical-align:top;"  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/KilnLit.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[Kiln](Kiln.md)](Kiln.md)</td></tr><tr ><td  style="text-align:left;vertical-align:top;"  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/ClayJar.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[Clay Jar](ClayJar.md)](ClayJar.md)</td><td  style="text-align:left;vertical-align:top;"  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/AdvancedKilnLit.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[Advanced Kiln](KilnAdvanced.md)](KilnAdvanced.md)</td></tr></tbody></table>  
+  
+
+
+<script>document.title="Unfired Clay Jar - Card Survival Wiki";</script>

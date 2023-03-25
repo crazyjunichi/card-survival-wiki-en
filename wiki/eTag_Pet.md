@@ -1,0 +1,6 @@
+# “Pet Item”  
+<div style="display:inline-block"><div class="gamedatalist" style="text-align:center;;min-height:0px;"><div class="gamecard" style="width:100px; height:150px;"><a href="Grandfather.md" style="color:black"><img decoding="async" src="Sprite/GranfatherSick.png" class="cardimage" style="max-width:100px;max-height:150px;"><span style="font-size: 16.666666666666668px;">Grandfather</span></a></div></div><div class="gamedatalist" style="text-align:center;;min-height:0px;"><div class="gamecard" style="width:100px; height:150px;"><a href="GrandfatherHealthy.md" style="color:black"><img decoding="async" src="Sprite/GranfatherHealthy.png" class="cardimage" style="max-width:100px;max-height:150px;"><span style="font-size: 16.666666666666668px;">Grandfather</span></a></div></div><div class="gamedatalist" style="text-align:center;;min-height:0px;"><div class="gamecard" style="width:100px; height:150px;"><a href="MacaqueFriend.md" style="color:black"><img decoding="async" src="Sprite/MacaqueFriend.png" class="cardimage" style="max-width:100px;max-height:150px;"><span style="font-size: 16.666666666666668px;">Macaque Friend</span></a></div></div></div>  
+  
+
+
+<script>document.title="“Pet Item” - Card Survival Wiki";</script>

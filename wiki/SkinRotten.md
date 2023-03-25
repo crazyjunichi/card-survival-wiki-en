@@ -1,0 +1,13 @@
+# Rotten Skin(未实装)  
+  
+<table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  >**Weight：**250<br><br>** Effect: **<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Discomfort.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[Discomfort](Discomfort.md)](Discomfort.md)<span style="font-family:ui-monospace"><b>+50</b></span></td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="SkinRotten.md" style="color:black"><img class="bg" decoding="async" src="Sprite/BG_GrassFront.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="Sprite/ReptileHideFleshed.png" class="cardimageNoBack" style="transform: translate(-50%, 0%) scale(0.4398826979472141);"><span style="font-size: 25px;">Rotten Skin</span></a></div></div>"Skin can be obtained by skinning large animals like Boars</td></tr></tbody></table>  
+  
+## Use In BluePrint  
+<div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:100px;min-height:0px;"><div class="gamecard" style="width:80px; height:120px;"><a href="Bp_Glue.md" style="color:black"><img class="bg" decoding="async" src="Sprite/BG_SandTop.png" href="a.md" style="max-width:80px;max-height:120px;"><img decoding="async" src="Sprite/AloeVeraGel.png" class="cardimageNoBack" style="transform: translate(-50%, 0%) scale(0.23460410557184752);"><span style="font-size: 13.333333333333334px;">Glue</span><img decoding="async" src="../wiki/Sprite/Blueprints.png" style="position: absolute;left:10px;bottom:10px; max-width:23px"></a></div></div></div>  
+  
+  
+## Durability   
+<div  style="border:1px solid #CCC;"><table style="margin-bottom:0px;"><tr><td style="width:30%;text-align:left; background-color:#FEFEFE;font-size:1.3em;font-weight:bold;">Spoilage</td><td style="font-size:1em;background-color:#FEFEFE">Starting：1536<br>-1/TP , Duration ：<font data-toggle="tooltip" data-placement="top" title="1536TP">16d</font></td></tr><tr style="background-color:#FFFFFF"><td colspan=2>** On Zero： **<br>Self: →Dismiss</td></tr></table></div>  
+
+
+<script>document.title="Rotten Skin - Card Survival Wiki";</script>

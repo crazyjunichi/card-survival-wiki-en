@@ -1,0 +1,23 @@
+# Cinchona Bark  
+> "I could extract quinine from it  
+  
+<table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  >**Weight：**25<br><br>**Tag：**	[“Cookable”](tag_Cookable.md)</td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="BarkCinchona.md" style="color:black"><img decoding="async" src="Sprite/CinchonaBark.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">Cinchona Bark</span></a></div></div>"Cinchona Trees grow in the <b>Jungle</b> and <b>Highland Jungles</b> of the island.<br><br>Their dried bark can be used to create <b>Quinine</b></td></tr></tbody></table>  
+  
+## Got From  
+<div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">** With：**[“Cutter”](tag_Cutter.md)Harvest Bark</div><div style="display:inline-block;vertical-align:middle;">[Cinchona Tree](CinchonaTree.md)</div></div></div></div>  
+  
+## Drag To  
+<div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:100px;min-height:0px;">[Empty Crop Plot(Empty)](CropPlotEmpty.md)</div></div>  
+  
+## Use To Transform  
+<table class="table table-bordered" data-toggle="table"  ><thead style=""><tr ><th  style="text-align:left;vertical-align:top;"  >Transform to</th><th  style="text-align:left;vertical-align:top;"  >Container</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;"  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CinchonaBarkDry.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[Dried Cinchona Bark](BarkCinchonaDried.md)](BarkCinchonaDried.md)</td><td  style="text-align:left;vertical-align:top;"  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/DryingRack.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[Drying Rack](DryingRack.md)](DryingRack.md)</td></tr></tbody></table>  
+  
+## Durability   
+<div  style="border:1px solid #CCC;"><table style="margin-bottom:0px;"><tr><td style="width:30%;text-align:left; background-color:#FEFEFE;font-size:1.3em;font-weight:bold;">Spoilage</td><td style="font-size:1em;background-color:#FEFEFE">Starting：288 , Max：288<br>-1/TP , Duration ：<font data-toggle="tooltip" data-placement="top" title="288TP">3d</font></td></tr><tr style="background-color:#FFFFFF"><td colspan=2>** On Zero： **<br>Self: →Dismiss</td></tr></table></div>  
+<div  style="border:1px solid #CCC;"><table style="margin-bottom:0px;"><tr><td style="width:30%;text-align:left; background-color:#FEFEFE;font-size:1.3em;font-weight:bold;">Progress</td><td style="font-size:1em;background-color:#FEFEFE">Starting：0 , Max：192<br>-</td></tr><tr style="background-color:#FFFFFF"><td colspan=2>** On Full： **<br>Self: → [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CinchonaBarkDry.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[Dried Cinchona Bark](BarkCinchonaDried.md)](BarkCinchonaDried.md)</td></tr></table></div>  
+## Passive Effects  
+<table class="table table-bordered" data-toggle="table"  ><thead style=""><tr ><th  style="text-align:left;vertical-align:top;"  >Name</th><th  style="text-align:left;vertical-align:top;"  >Condition</th><th  style="text-align:left;vertical-align:top;"  >Change(Each TP)</th><th  style="text-align:left;vertical-align:top;"  data-sortable="true"  >Status</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;"  >Drying</td><td  style="text-align:left;vertical-align:top;"  >** Require Card：**<br>[“Dry Environment”](tag_EnvDry.md)<br>** Require Stat：**<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/RainLight.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[Rain Value](RainValue.md)](RainValue.md): <span style="font-family:ui-monospace"><b>0-0</b></span></td><td  style="text-align:left;vertical-align:top;"  >Progress+1(0.52%)</td><td  style="text-align:left;vertical-align:top;"  ></td></tr></tbody></table>  
+  
+
+
+<script>document.title="Cinchona Bark - Card Survival Wiki";</script>
